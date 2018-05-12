@@ -1,0 +1,26 @@
+_repo: Die-Probefahrt-nach-Amerika_42912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schefer, Leopold
+    birthdate: 1784
+    deathdate: 1862
+    gutenberg_agent_id: '40436'
+    url: http://www.gutenberg.org/2009/agents/40436
+description: ''
+gutenberg_issued: '2013-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42912'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Die Probefahrt nach Amerika
+url: http://www.gutenberg.org/ebooks/42912
